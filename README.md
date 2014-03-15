@@ -23,3 +23,5 @@ javac -classpath pircbot.jar;. *.java
 and
 
 java -classpath pircbot.jar;. GBBMain
+
+While the program is running the emulator has to be in focus. 
