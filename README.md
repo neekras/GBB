@@ -3,7 +3,7 @@ GBB
 
 A simple bot using the Pircbot Java IRC framework, which listens for commands in a twitch.tv chat and emulates keypresses based on the command. For use with a gameboy emulator.
 
-This code is ugly, I wanted to create something that works the same as twitch.tv/twitchplayspokemon and this the first thing i came up with.
+I wanted to create something that works the same as twitch.tv/twitchplayspokemon and this the first thing i came up with, so the code may be ugly.
 
 ==========================================================================
 Required:
