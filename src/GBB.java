@@ -1,3 +1,10 @@
+/* GBB.java
+ * Author: Nick Hampshire, using pircbot framework
+ * Website: nhampshire.com
+ * Description:
+ * Reads messages in the channel, emulates key press if message matches a command.
+ */
+
 import org.jibble.pircbot.*;
 import java.util.Timer;
 import java.util.TimerTask;
