@@ -19,7 +19,7 @@ public class GBB extends PircBot {
         setFinger("GameBoyBot by nhampshire");
         setMessageDelay(0);
         setVersion("GBB V0.01");
-        setLogin("GBB);
+        setLogin("GBB");
 
     } //end GBB9000
 
